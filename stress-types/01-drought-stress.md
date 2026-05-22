@@ -12,148 +12,29 @@ This guide is written as an original scientific synthesis and should be expanded
 
 # 1. Conceptual Definition
 
-<p align="center">
-  <img src="../assets/photos/healthy-vs-drought-plant.jpg" width="850">
-</p>
+Drought stress occurs when the plant’s water demand exceeds the combined ability of soil, roots, xylem, leaves, and stomata to maintain adequate tissue hydration.
 
-<p align="center">
-  <b>Concept image.</b> A healthy plant maintains water uptake, turgor, transpiration, and photosynthesis, whereas a drought-stressed plant experiences declining water status, stomatal closure, reduced carbon gain, and growth limitation.
-</p>
+Drought is not simply “lack of water.” It is a whole-plant stress syndrome involving:
 
-> **Image note:** Upload your own photo or open-license image as  
-> `assets/photos/healthy-vs-drought-plant.jpg`.  
-> If you do not have an image yet, keep this placeholder and add the image later.
+- Soil water deficit
+- Low soil water potential
+- Reduced root water uptake
+- Hydraulic limitation
+- Stomatal closure
+- Reduced CO2 diffusion
+- Decreased photosynthesis
+- Metabolic imbalance
+- Oxidative stress
+- Altered hormone signaling
+- Reduced growth
+- Reproductive failure
+- Yield and quality loss
+- Incomplete or delayed recovery
 
----
-
-## What is drought stress?
-
-Drought stress occurs when the water available to the plant is not enough to meet the water required for normal growth, metabolism, cooling, photosynthesis, and reproduction.
-
-In simple terms:
-
-```text
-The soil cannot supply water fast enough
-        ↓
-The roots cannot absorb enough water
-        ↓
-The leaves begin to lose water status
-        ↓
-The plant closes stomata to save water
-        ↓
-Photosynthesis declines
-        ↓
-Growth, yield, and quality are reduced
-```
-
-Scientifically, drought is a **soil–plant–atmosphere continuum problem**. It begins with limited water availability in the root zone, but the final plant response depends on soil water potential, root architecture, xylem transport, leaf water potential, stomatal regulation, atmospheric demand, vapor pressure deficit, crop stage, genotype, and recovery capacity.
+A drought experiment should therefore be interpreted as a **dynamic soil–plant–atmosphere process**, not as a single treatment label.
 
 ---
 
-## Animated-style conceptual flow
-
-```mermaid
-flowchart LR
-    A[🌧️ Normal water supply] --> B[🌱 Active root water uptake]
-    B --> C[💧 High leaf water status]
-    C --> D[🟢 Open stomata]
-    D --> E[☀️ CO2 uptake and photosynthesis]
-    E --> F[🌿 Leaf expansion and biomass growth]
-    F --> G[🍓🌽 Yield and quality]
-
-    H[🔥 Drought or high VPD] --> I[🏜️ Drying soil]
-    I --> J[⚠️ Reduced root water uptake]
-    J --> K[🥀 Lower leaf water potential]
-    K --> L[🔒 Stomatal closure]
-    L --> M[⬇️ Reduced CO2 diffusion]
-    M --> N[⬇️ Lower photosynthesis]
-    N --> O[📉 Reduced biomass, yield, and quality]
-```
-
----
-
-## Healthy plant versus drought-stressed plant
-
-| Plant condition | Water status | Stomata | Photosynthesis | Growth | Yield implication |
-|---|---|---|---|---|---|
-| Well-watered plant | High leaf water potential and turgor | Mostly open | High carbon assimilation | Active leaf and root growth | Higher yield potential |
-| Mild drought | Slight decline in water status | Partially closed | Moderately reduced | Leaf expansion slows | Yield may recover if stress is short |
-| Moderate drought | Lower leaf water potential | Strongly regulated or closed | Strongly reduced | Biomass accumulation declines | Yield risk increases |
-| Severe drought | Loss of turgor and possible tissue injury | Mostly closed | Severely limited | Senescence and injury may occur | Major yield and quality loss |
-| Rewatered plant | Recovery depends on injury level | May reopen | May recover partially or fully | New growth may resume | Recovery depends on timing and crop stage |
-
----
-
-## Drought is not one single stress
-
-Drought can appear in different forms:
-
-```mermaid
-mindmap
-  root((Drought Stress))
-    Soil drought
-      Low soil moisture
-      Low soil water potential
-      Poor water availability to roots
-    Atmospheric drought
-      High vapor pressure deficit
-      High temperature
-      High evaporative demand
-    Physiological drought
-      Low leaf water potential
-      Reduced turgor
-      Stomatal closure
-    Agricultural drought
-      Reduced crop growth
-      Reduced yield
-      Reduced quality
-    Intermittent drought
-      Drying and rewatering cycles
-      Recovery response
-    Terminal drought
-      Stress during reproductive or filling stage
-      Strong yield penalty
-```
-
----
-
-## Visual analogy
-
-Drought stress can be imagined as a plant trying to maintain a water pipeline:
-
-```text
-Soil water reservoir → Roots → Xylem pipeline → Leaves → Atmosphere
-```
-
-When soil dries, the reservoir becomes harder to access. Roots must work harder to absorb water. The xylem delivers less water to the canopy. Leaves begin to lose turgor. Stomata close to reduce water loss. This protects the plant from dehydration but also restricts CO2 uptake, which reduces photosynthesis and growth.
-
----
-
-## Scientific definition for research use
-
-For research purposes, drought stress can be defined as:
-
-> A water-limiting condition in which soil water availability and/or atmospheric demand reduce plant water status sufficiently to alter turgor-driven growth, stomatal conductance, photosynthetic carbon assimilation, metabolic homeostasis, reproductive development, yield formation, or post-stress recovery.
-
-This definition is useful because it includes both **stress exposure** and **plant response**.
-
----
-
-## Key message
-
-Drought tolerance is not a single trait. It is an integrated outcome of:
-
-- Water acquisition by roots
-- Water conservation by stomata
-- Hydraulic safety
-- Osmotic adjustment
-- Photosynthetic stability
-- Antioxidant protection
-- Reproductive resilience
-- Yield stability
-- Recovery after rewatering
-
-A plant is not truly drought tolerant just because it survives. For crop research, a drought-tolerant plant should maintain useful physiological function, recover effectively, and reduce yield or quality loss under a defined drought scenario.
 # 2. Drought vs. Water Deficit vs. High VPD
 
 These terms are related but not identical.
