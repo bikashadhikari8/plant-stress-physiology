@@ -14,10 +14,9 @@ The goal is to build a practical information center for crop stress physiology, 
 
 ## Scientific foundation
 
-This repository is inspired by foundational concepts from *Plant Physiology and Development* by Taiz, Zeiger, Møller, and Murphy, especially topics related to water relations, photosynthesis, stomatal biology, mineral nutrition, respiration, signal transduction, senescence, and abiotic stress.
+This repository is inspired by foundational concepts  related to water relations, photosynthesis, stomatal biology, mineral nutrition, respiration, signal transduction, senescence, and abiotic stress.
 
-All content in this repository is written in original wording for educational, research, and portfolio purposes. Textbook figures, tables, and copied passages should not be uploaded here. Instead, this repository will use original summaries, original diagrams, and custom flowcharts.
-
+All content in this repository is written for educational, research, and portfolio purposes. Textbook figures, tables, and copied passages should not be uploaded here. 
 ## Main abiotic stress categories
 
 - Drought stress
